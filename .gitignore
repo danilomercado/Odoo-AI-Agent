@@ -1,0 +1,20 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+
+# Entorno virtual
+.venv/
+
+# Variables de entorno — NUNCA subir al repo
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Logs
+*.log

@@ -1,0 +1,9 @@
+# requirements.txt
+# Instalá con: pip install -r requirements.txt
+ 
+langchain==0.3.25
+langchain-openai==0.3.19
+langchain-core==0.3.59
+python-dotenv==1.0.1
+ 
+# xmlrpc.client viene en la stdlib de Python 3 — no requiere instalación adicional
